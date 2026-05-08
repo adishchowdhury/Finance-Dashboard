@@ -1,6 +1,9 @@
 # Finance-Dashboard
 A clean, interactive, and responsive finance dashboard built to track and understand financial activity. This project was developed as a frontend evaluation assignment, focusing on UI/UX design, component structure, and client-side state management.
 
+LIVE DEPLOYMENT:
+https://financerin.netlify.app/
+
 ## ✨ Features
 
 ### Core Functionality
